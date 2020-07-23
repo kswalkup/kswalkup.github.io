@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>reset.css</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <style type="text/css">
+    html, body, #container {
+      height: 100%;
+    }
+    body, #container {
+      overflow: hidden;
+      margin: 0;
+    }
+    #iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div id="container">
+    <iframe id="iframe" sandbox="allow-scripts" src="/files/UT-MCC-DATA-PT-04-2020-U-C/class-content/11-Web/3/Activities/01-Stu_ReviewActivity/Solved/reset.css"></iframe>
+  </div>
+</body>
+
+</html>
